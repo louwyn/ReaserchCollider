@@ -183,8 +183,7 @@ st.markdown(
 
 
 # Text box for the search query.
-query = st.text_area("Specify the expertise you are looking for (At least 20 words):", "Find biomedical imaging researcher exploring optical coherence tomography photonic chip development heart organoid analysis ultrafast noninvasive 3D imaging innovations platform. 
-")
+query = st.text_area("Specify the expertise you are looking for (At least 20 words):", "Find biomedical imaging researcher exploring optical coherence tomography photonic chip development heart organoid analysis ultrafast noninvasive 3D imaging innovations platform.")
 
 min_words = 20
 

@@ -176,14 +176,15 @@ st.markdown(
     unsafe_allow_html=True
 )
 st.markdown(
-    "<p class='custom-paragraph'>Find Professors with Matching Research Interests in the Association of Chinese Professors at WashU</p>",
+    "<p class='custom-paragraph'>Find Professors with Matching Research Interests in the Association of Chinese Professors(ACP) at WashU</p>",
     unsafe_allow_html=True
 )
 
 
 
 # Text box for the search query.
-query = st.text_area("Specify the expertise you are looking for (At least 20 words):", "light-based methods to observe and measure blood flow in the living brain")
+query = st.text_area("Specify the expertise you are looking for (At least 20 words):", "Find biomedical imaging researcher exploring optical coherence tomography photonic chip development heart organoid analysis ultrafast noninvasive 3D imaging innovations platform. 
+")
 
 min_words = 20
 

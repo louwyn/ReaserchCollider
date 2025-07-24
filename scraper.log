@@ -1,0 +1,147 @@
+2025-05-18 00:30:18,397 [WARNING] [FETCH-fail] https://www.mir.wustl.edu/employees/wei-wang/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/employees/wei-wang/
+2025-05-18 00:30:27,691 [WARNING] [FETCH-fail] https://siteman.wustl.edu/doctor/du-kefu/ → 403 Client Error: Forbidden for url: https://siteman.wustl.edu/doctor/du-kefu/
+2025-05-18 00:30:31,874 [WARNING] [FETCH-fail] https://profiles.wustl.edu/en/persons/jiye-cheng → 403 Client Error: Forbidden for url: https://profiles.wustl.edu/en/persons/jiye-cheng
+2025-05-18 00:30:32,447 [WARNING] [FETCH-fail] https://www.mir.wustl.edu/employees/jie-zheng/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/employees/jie-zheng/
+2025-05-18 00:30:38,827 [WARNING] [FETCH-fail] https://psychiatry.wustl.edu/people/angela-lin-md-mphs/ → 404 Client Error: Not Found for url: https://psychiatry.wustl.edu/people/angela-lin-md-mphs/
+2025-05-18 00:31:02,608 [WARNING] [FETCH-fail] http://sites.wustl.edu/wanglab/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/research/research-centers/neuroimaging-labs-research-center-nil-rc/labs/swang-lab/
+2025-05-18 00:32:02,828 [WARNING] [FETCH-fail] https://www.mir.wustl.edu/employees/wei-wang/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/employees/wei-wang/
+2025-05-18 00:32:12,112 [WARNING] [FETCH-fail] https://siteman.wustl.edu/doctor/du-kefu/ → 403 Client Error: Forbidden for url: https://siteman.wustl.edu/doctor/du-kefu/
+2025-05-18 00:32:16,078 [WARNING] [FETCH-fail] https://profiles.wustl.edu/en/persons/jiye-cheng → 403 Client Error: Forbidden for url: https://profiles.wustl.edu/en/persons/jiye-cheng
+2025-05-18 00:32:16,601 [WARNING] [FETCH-fail] https://www.mir.wustl.edu/employees/jie-zheng/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/employees/jie-zheng/
+2025-05-18 00:32:22,647 [WARNING] [FETCH-fail] https://psychiatry.wustl.edu/people/angela-lin-md-mphs/ → 404 Client Error: Not Found for url: https://psychiatry.wustl.edu/people/angela-lin-md-mphs/
+2025-05-18 00:32:45,444 [WARNING] [FETCH-fail] http://sites.wustl.edu/wanglab/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/research/research-centers/neuroimaging-labs-research-center-nil-rc/labs/swang-lab/
+2025-05-18 00:33:02,895 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /leyaowanglab/
+2025-05-18 00:33:09,089 [WARNING] [FETCH-fail] https://sites.wustl.edu/hughes/ → 410 Client Error: Gone for url: https://sites.wustl.edu/hughes/
+2025-05-18 00:33:12,384 [WARNING] [FETCH-fail] https://dermatology.wustl.edu/people/hongzhen-hu-phd/ → 404 Client Error: Not Found for url: https://dermatology.wustl.edu/people/hongzhen-hu-phd/
+2025-05-18 00:33:12,907 [WARNING] [FETCH-fail] https://www.mir.wustl.edu/employees/hongyu-an/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/employees/hongyu-an/
+2025-05-18 00:33:20,210 [INFO] Done! Scraped 161 people → web_data.json
+2025-05-18 00:33:20,211 [INFO] 9 URLs failed – see bad_urls.log
+2025-05-18 00:36:13,401 [WARNING] [FETCH-fail] https://www.mir.wustl.edu/employees/wei-wang/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/employees/wei-wang/
+2025-05-18 00:36:22,424 [WARNING] [FETCH-fail] https://siteman.wustl.edu/doctor/du-kefu/ → 403 Client Error: Forbidden for url: https://siteman.wustl.edu/doctor/du-kefu/
+2025-05-18 00:36:26,572 [WARNING] [FETCH-fail] https://profiles.wustl.edu/en/persons/jiye-cheng → 403 Client Error: Forbidden for url: https://profiles.wustl.edu/en/persons/jiye-cheng
+2025-05-18 00:36:27,102 [WARNING] [FETCH-fail] https://www.mir.wustl.edu/employees/jie-zheng/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/employees/jie-zheng/
+2025-05-18 00:36:33,561 [WARNING] [FETCH-fail] https://psychiatry.wustl.edu/people/angela-lin-md-mphs/ → 404 Client Error: Not Found for url: https://psychiatry.wustl.edu/people/angela-lin-md-mphs/
+2025-05-18 00:36:56,847 [WARNING] [FETCH-fail] http://sites.wustl.edu/wanglab/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/research/research-centers/neuroimaging-labs-research-center-nil-rc/labs/swang-lab/
+2025-05-18 00:37:15,907 [WARNING] [FETCH-fail] https://sites.wustl.edu/hughes/ → 410 Client Error: Gone for url: https://sites.wustl.edu/hughes/
+2025-05-18 00:37:19,275 [WARNING] [FETCH-fail] https://dermatology.wustl.edu/people/hongzhen-hu-phd/ → 404 Client Error: Not Found for url: https://dermatology.wustl.edu/people/hongzhen-hu-phd/
+2025-05-18 00:37:19,809 [WARNING] [FETCH-fail] https://www.mir.wustl.edu/employees/hongyu-an/ → 403 Client Error: Forbidden for url: https://www.mir.wustl.edu/employees/hongyu-an/
+2025-05-18 00:37:27,137 [INFO] Done! Scraped 161 people → web_data.json
+2025-05-18 00:37:27,138 [INFO] 9 URLs failed – see bad_urls.log
+2025-05-18 02:13:37,015 [INFO] [Qian Wang] no URLs recognised in row
+2025-05-18 02:14:46,964 [WARNING] [Jino Lu] https://uscmarshallweb.s3-us-west-2.amazonaws.com/assets/uploads/s1/cv/jino_lu.jino_lu-cv_hr25zfcooh.pdf → No /Root object! - Is this really a PDF?
+2025-05-18 02:15:04,633 [INFO] [Yingkang Xie] no URLs recognised in row
+2025-05-18 02:15:15,686 [INFO] [Yi  Huang] no URLs recognised in row
+2025-05-18 02:15:55,050 [WARNING] [Yang Li] https://yelilab.wustl.edu/ → HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=30)
+2025-05-18 02:16:04,986 [WARNING] [Yajie Yuan] https://sites.google.com/view/yajieyuan → 422 Client Error: Unprocessable Entity for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsites.google.com%2Fview%2Fyajieyuan&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:16:24,871 [INFO] [Xia Liang] no URLs recognised in row
+2025-05-18 02:17:40,038 [WARNING] [Shuiming Qian] https://biology.wustl.edu/people/shuiming-qian → HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=30)
+2025-05-18 02:17:57,601 [INFO] [Ruiwen Zhou] no URLs recognised in row
+2025-05-18 02:17:57,602 [INFO] [Ruijin Lu] no URLs recognised in row
+2025-05-18 02:18:49,881 [WARNING] [Kefu Du] https://siteman.wustl.edu/doctor/du-kefu/ → HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=30)
+2025-05-18 02:18:50,586 [INFO] [Kangyun Wu] no URLs recognised in row
+2025-05-18 02:18:52,118 [WARNING] [Jue Lu] https://ealc.wustl.edu/people/jue-lu → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fealc.wustl.edu%2Fpeople%2Fjue-lu&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:20:15,535 [INFO] [Hua Pan] no URLs recognised in row
+2025-05-18 02:20:41,050 [INFO] [Grace  Johnson] no URLs recognised in row
+2025-05-18 02:20:41,051 [INFO] [Grace  Waitman] no URLs recognised in row
+2025-05-18 02:20:41,051 [INFO] [Fanghong Dong] no URLs recognised in row
+2025-05-18 02:20:58,136 [INFO] [Cynthia  Ma] no URLs recognised in row
+2025-05-18 02:21:13,763 [INFO] [Chang Liu] no URLs recognised in row
+2025-05-18 02:21:21,078 [WARNING] [Alan Chang] https://sites.google.com/view/alanchang → 422 Client Error: Unprocessable Entity for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsites.google.com%2Fview%2Falanchang&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:21:58,451 [INFO] [Wei Wang] no URLs recognised in row
+2025-05-18 02:22:34,821 [INFO] [Xueyan He] no URLs recognised in row
+2025-05-18 02:23:04,826 [WARNING] [Xuehua  Zhong] https://artsci.wustl.edu/faculty-staff/xuehua-zhong → HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=30)
+2025-05-18 02:23:07,061 [WARNING] [Yan Yu] https://chemistry.wustl.edu/people/yan-yu → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fchemistry.wustl.edu%2Fpeople%2Fyan-yu&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:09,253 [WARNING] [Zhiyu Dai] https://sites.wustl.edu/zhiyudai/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsites.wustl.edu%2Fzhiyudai%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:09,955 [INFO] [Zhude Tu] no URLs recognised in row
+2025-05-18 02:23:11,206 [WARNING] [Zhongsheng You] http://youlab.wustl.edu → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=http%3A%2F%2Fyoulab.wustl.edu&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:11,911 [INFO] [Zhifu  Xiang] no URLs recognised in row
+2025-05-18 02:23:13,614 [WARNING] [Zhen He] https://ebbl.eece.wustl.edu/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Febbl.eece.wustl.edu%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:14,319 [INFO] [Zhao Ma] no URLs recognised in row
+2025-05-18 02:23:14,320 [INFO] [Yuxing Gu] no URLs recognised in row
+2025-05-18 02:23:15,688 [WARNING] [Yu-Qing Cao] https://sites.wustl.edu/dbrcaolab/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsites.wustl.edu%2Fdbrcaolab%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:16,393 [INFO] [Yongjian  Liu] no URLs recognised in row
+2025-05-18 02:23:16,393 [INFO] [Ying Chen] no URLs recognised in row
+2025-05-18 02:23:16,393 [INFO] [Yin Cao] no URLs recognised in row
+2025-05-18 02:23:16,394 [INFO] [Yasheng Chen] no URLs recognised in row
+2025-05-18 02:23:16,394 [INFO] [Yao Chen] no URLs recognised in row
+2025-05-18 02:23:16,394 [INFO] [Yan Yan] no URLs recognised in row
+2025-05-18 02:23:16,394 [INFO] [xunjun xiao] no URLs recognised in row
+2025-05-18 02:23:16,395 [INFO] [Xuan Zhang] no URLs recognised in row
+2025-05-18 02:23:16,395 [INFO] [Xiumin Martin] no URLs recognised in row
+2025-05-18 02:23:16,395 [INFO] [Xiuli Liu] no URLs recognised in row
+2025-05-18 02:23:16,395 [INFO] [Xinming Su] no URLs recognised in row
+2025-05-18 02:23:17,841 [WARNING] [Xing Huang] https://www.xinghuang.info → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fwww.xinghuang.info&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:19,792 [WARNING] [Xiaoxiao Wan] https://pathology.wustl.edu/people/xiaoxiao-wan-phd/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fpathology.wustl.edu%2Fpeople%2Fxiaoxiao-wan-phd%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:22,073 [WARNING] [Xiaoxia Cui] https://sites.wustl.edu/gesc → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsites.wustl.edu%2Fgesc&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:24,156 [WARNING] [Xiaobo Wu] https://rheumatology.wustl.edu/people/xiaobo-wu-md/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Frheumatology.wustl.edu%2Fpeople%2Fxiaobo-wu-md%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:24,861 [INFO] [Xiaobin Yi] no URLs recognised in row
+2025-05-18 02:23:26,286 [WARNING] [Xiang Hui] https://xiang-hui.org → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fxiang-hui.org&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:26,990 [INFO] [Xiang Tang] no URLs recognised in row
+2025-05-18 02:23:28,439 [WARNING] [Weikai Li] https://weikailab.wustl.edu/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fweikailab.wustl.edu%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:23:29,143 [INFO] [Wei Luo] no URLs recognised in row
+2025-05-18 02:23:59,247 [WARNING] [Ting Wang] http://wang.wustl.edu → HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=30)
+2025-05-18 02:24:01,479 [WARNING] [Tiezhi Zhang] https://axil.wustl.edu → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Faxil.wustl.edu&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:02,183 [INFO] [Tianyu Zhao] no URLs recognised in row
+2025-05-18 02:24:03,623 [WARNING] [Tat Chan] https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=chan → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Folin.wustl.edu%2FEN-US%2FFaculty-Research%2FFaculty%2FPages%2FFacultyDetail.aspx%3Fusername%3Dchan&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:04,327 [INFO] [Tao Ju] no URLs recognised in row
+2025-05-18 02:24:04,328 [INFO] [Steve Liao] no URLs recognised in row
+2025-05-18 02:24:04,328 [INFO] [Song Hu] no URLs recognised in row
+2025-05-18 02:24:05,680 [WARNING] [Song Yao] https://www.songyao.org → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fwww.songyao.org&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:07,779 [WARNING] [Siyuan Ding] https://sdinglab.wustl.edu/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsdinglab.wustl.edu%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:09,843 [WARNING] [Shuo Wang] http://sites.wustl.edu/wanglab/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=http%3A%2F%2Fsites.wustl.edu%2Fwanglab%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:11,985 [WARNING] [Shiming Chen] https://ophthalmology.wustl.edu/people/shiming-chen-phd/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fophthalmology.wustl.edu%2Fpeople%2Fshiming-chen-phd%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:12,689 [INFO] [Sheng-Kwei Song] no URLs recognised in row
+2025-05-18 02:24:13,872 [WARNING] [Sheng Ran] https://sites.wustl.edu/sran/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsites.wustl.edu%2Fsran%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:16,011 [WARNING] [Ruopeng An] https://brownschool.wustl.edu/Faculty-and-Research/Pages/Ruopeng-An.aspx → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fbrownschool.wustl.edu%2FFaculty-and-Research%2FPages%2FRuopeng-An.aspx&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:18,125 [WARNING] [Qingyun Li] https://neuroscience.wustl.edu/people/tristan-qingyun-li-phd/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fneuroscience.wustl.edu%2Fpeople%2Ftristan-qingyun-li-phd%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:18,829 [INFO] [Qing Wang] no URLs recognised in row
+2025-05-18 02:24:20,307 [WARNING] [Peng Bai] https://bailab.wustl.edu → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fbailab.wustl.edu&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:22,391 [WARNING] [Ning Zhang] https://cybersecurity.seas.wustl.edu/ning/index.html → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fcybersecurity.seas.wustl.edu%2Fning%2Findex.html&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:23,095 [INFO] [Nan Lin] no URLs recognised in row
+2025-05-18 02:24:23,095 [INFO] [Minyuan Zhao] no URLs recognised in row
+2025-05-18 02:24:23,096 [INFO] [Meng Liu] no URLs recognised in row
+2025-05-18 02:24:23,096 [INFO] [Mai He] no URLs recognised in row
+2025-05-18 02:24:24,401 [WARNING] [Luqi Chi] https://sleep.wustl.edu/people/luqi-chi-md-msce-facp/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsleep.wustl.edu%2Fpeople%2Fluqi-chi-md-msce-facp%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:25,103 [INFO] [Liwei  Zhang] no URLs recognised in row
+2025-05-18 02:24:25,103 [INFO] [Linling Gao-Miles] no URLs recognised in row
+2025-05-18 02:24:55,185 [WARNING] [Lingxiu Dong] https://olin.wustl.edu/EN-US/Faculty-Research/Faculty/Pages/FacultyDetail.aspx?username=dong → HTTPSConnectionPool(host='api.scrapingant.com', port=443): Read timed out. (read timeout=30)
+2025-05-18 02:24:55,890 [INFO] [Linda Tsai] no URLs recognised in row
+2025-05-18 02:24:57,509 [WARNING] [Linda Wu] https://www.linkedin.com/in/drlindawu/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdrlindawu%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:24:59,601 [WARNING] [Liang Ma] https://dermatology.wustl.edu/people/liang-ma-phd/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fdermatology.wustl.edu%2Fpeople%2Fliang-ma-phd%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:01,767 [WARNING] [Liang Shan] https://sites.wustl.edu/shanlab/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsites.wustl.edu%2Fshanlab%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:02,471 [INFO] [liang wang] no URLs recognised in row
+2025-05-18 02:25:03,793 [WARNING] [Li Yang] https://web.physics.wustl.edu/lyang/Pages/Home/index.php → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fweb.physics.wustl.edu%2Flyang%2FPages%2FHome%2Findex.php&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:05,834 [WARNING] [Leyao Wang] https://sites.wustl.edu/leyaowanglab/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsites.wustl.edu%2Fleyaowanglab%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:07,901 [WARNING] [Lei Liu] https://biostatistics.wustl.edu/faculty-staff/908/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fbiostatistics.wustl.edu%2Ffaculty-staff%2F908%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:09,901 [WARNING] [Jung-Tsung Shen] https://quantumgroup.wustl.edu → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fquantumgroup.wustl.edu&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:10,606 [INFO] [Jingyi Shi] no URLs recognised in row
+2025-05-18 02:25:10,607 [INFO] [Jingyi Wang] no URLs recognised in row
+2025-05-18 02:25:10,607 [INFO] [Jingqin Luo] no URLs recognised in row
+2025-05-18 02:25:11,956 [WARNING] [JING HUGHES] https://sites.wustl.edu/hughes/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsites.wustl.edu%2Fhughes%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:12,661 [INFO] [Jing Li] no URLs recognised in row
+2025-05-18 02:25:12,661 [INFO] [Jimin Ding] no URLs recognised in row
+2025-05-18 02:25:14,004 [WARNING] [Jieya Shao] https://www.shaolab.org → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fwww.shaolab.org&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:14,709 [INFO] [Jiayi Huang] no URLs recognised in row
+2025-05-18 02:25:14,709 [INFO] [Jianqing  Chen] no URLs recognised in row
+2025-05-18 02:25:14,709 [INFO] [Jianmin Cui] no URLs recognised in row
+2025-05-18 02:25:14,710 [INFO] [Jianjun  Guan] no URLs recognised in row
+2025-05-18 02:25:14,710 [INFO] [Jian Cai] no URLs recognised in row
+2025-05-18 02:25:14,710 [INFO] [Jian Wang] no URLs recognised in row
+2025-05-18 02:25:16,319 [WARNING] [I-Ting Lee] https://www.cse.wustl.edu/~angelee → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fwww.cse.wustl.edu%2F~angelee&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:17,024 [INFO] [Hugh Xiaolong Wu] no URLs recognised in row
+2025-05-18 02:25:18,417 [WARNING] [Hua Li] https://sites.wustl.edu/huali/ → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fsites.wustl.edu%2Fhuali%2F&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:20,569 [WARNING] [Hongzhen Hu] https://itch.wustl.edu/people/hongzhen-hu-phd/; → 409 Client Error: Conflict for url: https://api.scrapingant.com/v2/general?url=https%3A%2F%2Fitch.wustl.edu%2Fpeople%2Fhongzhen-hu-phd%2F%3B&x-api-key=cd2d9aca82fc4ce08088958e5ddefa1b&render_js=true&block_assets=true
+2025-05-18 02:25:59,274 [INFO] [Hong Liu] no URLs recognised in row
+2025-05-18 02:26:06,288 [INFO] [Georgeann Groh] no URLs recognised in row
+2025-05-18 02:26:06,289 [INFO] [Fuqiang Zhang] no URLs recognised in row
+2025-05-18 02:26:06,290 [INFO] [Fuhai Li] no URLs recognised in row
+2025-05-18 02:26:14,890 [INFO] [Fei  Wan] no URLs recognised in row
+2025-05-18 02:26:14,891 [INFO] [Fangqiong  Ling] no URLs recognised in row
+2025-05-18 02:26:14,891 [INFO] [Dorothy Wang] no URLs recognised in row
+2025-05-18 02:26:40,087 [INFO] [chengjie Xiong] no URLs recognised in row
+2025-05-18 02:26:40,088 [INFO] [Chao Wu] no URLs recognised in row
+2025-05-18 02:26:56,071 [INFO] [Carol Kao] no URLs recognised in row
+2025-05-18 02:26:56,071 [INFO] [Bo Zhang] no URLs recognised in row
+2025-05-18 02:26:56,072 [INFO] [Baozhou Sun] no URLs recognised in row
+2025-05-18 02:26:56,072 [INFO] [Baojun Jiang] no URLs recognised in row
+2025-05-18 02:26:56,072 [INFO] [Andrew Huang] no URLs recognised in row
